@@ -1,3 +1,3 @@
 # Git-course
 For learning
-##project nots
+## project notes
